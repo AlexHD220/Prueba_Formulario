@@ -128,7 +128,5 @@ include('conexion.php');
             ?>
 
         </section>
-        
-    
     </body>
 </html>
